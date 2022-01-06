@@ -1,0 +1,11 @@
+package ir.maktab.model;
+
+public enum OrderStatus {
+    WATINGFOREXPERTSUGESTION,WATINGFOREXPORTSELECTION,
+    WATINGFORTHEEXPERTTOARRIVE,
+    STARTED,
+    DONE,
+    PAID;
+
+
+}
